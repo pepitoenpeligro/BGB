@@ -8,3 +8,8 @@ Como valor añadido, contaremos con diferentes sistemas qeu pueden ser interesan
 - Sistema de recomendaciones: la aplicación buscará juegos que peudan ser afines a nuestra selección inicial de juegos de mesa.
 - Sistema de rankings: puede ser interesante tener rankings de los mejores usuarios con mejores valoraciones, así como de los juegos de mesa que ma´s quedadas generan.
 - Darle un perfile social a la aplicación, para que los usuairos puedan interactuar entre ellos. 
+
+Realizado por:
+- Ángel Píñar Rivas (@Anglepi)
+- Fernando Izquierdo Romera (@fer227)
+- José Antonio Córdoba Gómez (@pepitoenpeligro)
