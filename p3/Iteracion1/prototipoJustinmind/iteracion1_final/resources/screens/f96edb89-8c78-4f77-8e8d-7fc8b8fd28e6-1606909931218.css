@@ -1,0 +1,90 @@
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 > #backgroundBox {
+  position: absolute;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 > #alignmentBox {
+  position: relative;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Image_1 {
+  position: absolute;
+  width: 1280.9126213592233px;
+  height: 733.7819799777534px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Image_1 {
+  box-shadow: none;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_1 {
+  position: absolute;
+  width: 154.0px;
+  height: 49.99999999999997px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_2 {
+  position: absolute;
+  width: 160.0px;
+  height: 50.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_3 {
+  position: absolute;
+  width: 151.00000000000023px;
+  height: 49.99999999999997px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_4 {
+  position: absolute;
+  width: 151.0px;
+  height: 42.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_5 {
+  position: absolute;
+  width: 191.99999999999994px;
+  height: 104.00000000000006px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 #s-Hotspot_6 {
+  position: absolute;
+  width: 291.0000000000001px;
+  height: 50.00000000000007px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-f96edb89-8c78-4f77-8e8d-7fc8b8fd28e6 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,12 @@
+/*** input components ***/
+.canvas.devIOS .radiobutton.inputIOS { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/radiobutton.png', sizingMethod='scale'); }
+.canvas.devIOS .checkbox.inputIOS { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/checkbox.png', sizingMethod='scale'); }
+.canvas.devIOS .radiobutton.inputIOS[disabled="disabled"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/radiobutton-disabled.png', sizingMethod='scale'); }
+.canvas.devIOS .checkbox.inputIOS[disabled="disabled"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/checkbox-disabled.png', sizingMethod='scale'); }
+.canvas.devIOS .radiobutton.inputIOS[checked="checked"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/radiobuttonPressed.png', sizingMethod='scale'); }
+.canvas.devIOS .checkbox.inputIOS[checked="checked"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/checkboxPressed.png', sizingMethod='scale'); }
+.canvas.devIOS .radiobutton.inputIOS[checked="checked"][disabled="disabled"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/radiobuttonPressed-disabled.png', sizingMethod='scale'); }
+.canvas.devIOS .checkbox.inputIOS[checked="checked"][disabled="disabled"] { background-image:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./resources/jim/images/mobile/ios/common/checkboxPressed-disabled.png', sizingMethod='scale'); }
+
+/*** native dropdowns ***/
+.canvas.devIOS .nativedropdown.inputIOS .dropdown-options { filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0); }

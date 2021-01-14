@@ -1,0 +1,81 @@
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 > #backgroundBox {
+  position: absolute;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 > #alignmentBox {
+  position: relative;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Image_1 {
+  position: absolute;
+  width: 1279.5225048923676px;
+  height: 733.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Image_1 {
+  box-shadow: none;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Hotspot_1 {
+  position: absolute;
+  width: 151.00000000000023px;
+  height: 49.99999999999997px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Hotspot_2 {
+  position: absolute;
+  width: 160.0px;
+  height: 50.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Hotspot_3 {
+  position: absolute;
+  width: 154.0px;
+  height: 49.99999999999997px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Hotspot_4 {
+  position: absolute;
+  width: 151.0px;
+  height: 42.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 #s-Hotspot_6 {
+  position: absolute;
+  width: 242.0px;
+  height: 50.00000000000003px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-91987b2e-b9b9-4342-8715-46f1de985c84 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
