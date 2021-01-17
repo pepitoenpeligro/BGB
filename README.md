@@ -10,6 +10,6 @@ Como valor añadido, contaremos con diferentes sistemas qeu pueden ser interesan
 - Darle un perfile social a la aplicación, para que los usuairos puedan interactuar entre ellos. 
 
 Realizado por:
-- Ángel Píñar Rivas (@Anglepi)
-- Fernando Izquierdo Romera (@fer227)
-- José Antonio Córdoba Gómez (@pepitoenpeligro)
+- Ángel Píñar Rivas ([@Anglepi](https://github.com/anglepi))
+- Fernando Izquierdo Romera ([@fer227](https://github.com/fer227))
+- José Antonio Córdoba Gómez ([@pepitoenpeligro](https://github.com/pepitoenpeligro))
