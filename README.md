@@ -1,5 +1,8 @@
 # BGB
 
+![](logo.png)
+
+
 [BoardGames Brotherhood](https://bgp-dessi.8b.io) es un proyecto de aplicación webapp en la que los usuarios puedan encontrar grupos de gente de sus proximidades para reunirse frente al tablero.
 
 En esta aplicación, los usuasrios podrán visitar distintas salas (cada una haciedno referencia a un juego de mesa). En estas salas, se mostrará un listado de grupos de gente ya existentes, y el ususario podrá solicitar unirse a uno que no esté lleno o crear el suyo propio.
