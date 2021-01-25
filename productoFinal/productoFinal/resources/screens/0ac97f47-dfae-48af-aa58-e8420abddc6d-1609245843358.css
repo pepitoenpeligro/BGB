@@ -1,0 +1,48 @@
+#s-0ac97f47-dfae-48af-aa58-e8420abddc6d > #backgroundBox {
+  position: absolute;
+}
+#s-0ac97f47-dfae-48af-aa58-e8420abddc6d > #alignmentBox {
+  position: relative;
+  max-width: 375.0px;
+  max-height: 812.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-0ac97f47-dfae-48af-aa58-e8420abddc6d #s-Image_1 {
+  position: absolute;
+  width: 374.9999999999998px;
+  height: 780.5964566929134px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-0ac97f47-dfae-48af-aa58-e8420abddc6d #s-Image_1 {
+  box-shadow: none;
+}
+#s-0ac97f47-dfae-48af-aa58-e8420abddc6d #s-Hotspot_1 {
+  position: absolute;
+  width: 50.0px;
+  height: 37.99999999999997px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-0ac97f47-dfae-48af-aa58-e8420abddc6d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
